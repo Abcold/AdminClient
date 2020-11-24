@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+adminclient
 
 In the project directory, you can run:
 
@@ -69,8 +65,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# AdminClient
-基于React实现的后台管理系统
-##笔记
->>>>>>> 7563da199aa0f1edbb4da48ff55f83ac7f477ce0
